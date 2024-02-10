@@ -4,7 +4,7 @@
 
 I 'am Front-End Developer who is passionate about making error - free website with 100% client satisfaction. I have a passion for learning. I have worked with various technologies and programing language include HTML5 CSS3 JavaScript blend of experience. Fast forward to 2020 where I started Frotn-End developer. I have worked on many project based on front-end development and also have basic knowledge of Django and worked on few projects init. I enjoy working with include HTML CSS JavaScript. 
 
-Skills:  HTML / CSS 
+Skills:  HTML / CSS / JavaScript
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
